@@ -1,0 +1,35 @@
+body{
+	overflow: hidden;
+}
+
+.outer-target{
+	position: relative;
+	left: 150px; 
+	top: 150px;
+	background-color: lightblue;
+	width: 500px;
+	height: 500px
+}
+
+.middle-target{
+	background-color: green	;
+	width: 350px;
+	height: 350px;
+	margin: auto;
+	position: relative;
+	top: 75px;
+}
+
+.inner-target{
+	background-color: purple;
+	width: 150px;
+	height: 150px;
+	margin: auto;
+	position: relative;
+	top: 100px; 
+}
+
+.outer-target, .middle-target, .inner-target{
+	 border-radius: 100000px;
+	cursor: pointer;	
+}
