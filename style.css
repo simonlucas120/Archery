@@ -6,13 +6,13 @@ body{
 	position: relative;
 	left: 150px; 
 	top: 150px;
-	background-color: lightblue;
+	background-color: red;
 	width: 500px;
 	height: 500px
 }
 
 .middle-target{
-	background-color: green	;
+	background-color: blue	;
 	width: 350px;
 	height: 350px;
 	margin: auto;
@@ -21,7 +21,7 @@ body{
 }
 
 .inner-target{
-	background-color: purple;
+	background-color: grey;
 	width: 150px;
 	height: 150px;
 	margin: auto;
