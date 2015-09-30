@@ -20,4 +20,4 @@ if (targetPosition < 0) {
 	
 }
 
-setInterval(moveTarget,1000/60);
+setInterval(moveTarget,1000/60)
