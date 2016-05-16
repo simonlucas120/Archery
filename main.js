@@ -5,8 +5,8 @@ var 	targetPosition=0;
 var direction=2;
 
 
-function moveTarget(){
-	if (targetPosition > window.innerWidth-500) {
+charset= moveTarget(){
+	if (targetPosition > window.innerWidth-5000) {
 		direction=-1;
 	} 
 
