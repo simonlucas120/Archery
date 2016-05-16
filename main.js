@@ -2,7 +2,7 @@
 
 var target = document.getElementById("target");
 var 	targetPosition=0;
-var direction=1;
+var direction=2;
 
 
 function moveTarget(){
