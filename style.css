@@ -6,13 +6,13 @@ body{
 	position: relative;
 	left: 150px; 
 	top: 150px;
-	background-color: red;
+	background-color: purple;
 	width: 500px;
 	height: 500px
 }
 
 .middle-target{
-	background-color: blue	;
+	background-color: red	;
 	width: 350px;
 	height: 350px;
 	margin: auto;
